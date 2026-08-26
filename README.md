@@ -4,6 +4,16 @@ An AI agent for analytics and reporting — turning any enriched or scraped data
 
 Part of [Agency Agents OS](https://github.com/Anil-matcha/agency-agents-os), an open ecosystem of specialized AI agents for real business work.
 
+## Related Projects
+
+- [Agency Agents OS](https://github.com/Anil-matcha/agency-agents-os) — the central catalog this repo is part of.
+- [ai-seo-agent](https://github.com/SamurAIGPT/ai-seo-agent) — one of the data sources this repo can turn into a report or dashboard.
+- [ai-ecommerce-agent](https://github.com/SamurAIGPT/ai-ecommerce-agent) — another data source this repo can report on.
+- [ai-competitor-intelligence-agent](https://github.com/SamurAIGPT/ai-competitor-intelligence-agent) — shares this repo's cross-umbrella data-aggregation role.
+- [MuAPI MCP docs](https://muapi.ai/docs/mcp) — connect this repo's `SKILL.md` files via MCP.
+- [MuAPI Agent Skills](https://muapi.ai/docs/agent-skills) — background on the `SKILL.md` pattern this repo uses.
+- [MuAPI access keys](https://muapi.ai/access-keys) — create the API key this agent needs.
+
 ## What this covers
 
 This repo is the umbrella for turning raw numbers into something a client can actually read: a written report with takeaways, or a dashboard spec a BI tool can be built from. It's a cross-cutting umbrella — it doesn't collect its own data, it consumes datasets produced by other Agency Agents OS umbrellas (`ai-sales-agent`, `ai-social-agent`, `ai-ecommerce-agent`, `ai-ads-agent`, and others) and turns them into deliverables.
